@@ -1,16 +1,16 @@
-### Hi there 👋
+Hello,
 
-<!--
-**vigneshwork01/vigneshwork01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vigneshreddy.
 
-Here are some ideas to get you started:
+I am currently a Data Analyst at DigitalNock Pvt Limited. I possess strong analytical skills and expertise in using SQL, Python, Power BI and Excel to extract, transform, and load data for insightful visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out My Profile Here:-
+
+https://www.linkedin.com/in/vignesh-reddy-work/
+
+vigneshreddywork@gmail.com
+
+Founder Of :- https://www.lastbenchpharmacist.in/)https://www.lastbenchpharmacist.in/
+
+
+
