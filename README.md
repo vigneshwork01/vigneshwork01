@@ -10,7 +10,7 @@ https://www.linkedin.com/in/vignesh-reddy-work/
 
 vigneshreddywork@gmail.com
 
-Founder Of :- https://www.lastbenchpharmacist.in/)https://www.lastbenchpharmacist.in/
+Founder Of :- https://www.lastbenchpharmacist.in/
 
 
 
