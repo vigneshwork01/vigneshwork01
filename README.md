@@ -2,7 +2,7 @@ Hello,
 
 I'm Vigneshreddy.
 
-I am currently a Data Analyst at DigitalNock Pvt Limited. I possess strong analytical skills and expertise in using SQL, Python, Power BI and Excel to extract, transform, and load data for insightful visualizations.
+I am currently a Business Analyst at DigitalNock IT Solutions. I possess strong analytical skills and expertise in using SQL, Python, Power BI and Excel to extract, transform, and load data for insightful visualizations.
 
 Check out My Profile Here:-
 
